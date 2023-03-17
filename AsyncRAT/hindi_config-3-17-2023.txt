@@ -1,4 +1,4 @@
-Referennce: https://twitter.com/ankit_anubhav/status/1636714527218880515
+Reference: https://twitter.com/ankit_anubhav/status/1636714527218880515
 MD5 of extracted payload from memory: b3ee90839fb872c6bdd75c3397ec4c35
 
 InstallFolder: %AppData%
