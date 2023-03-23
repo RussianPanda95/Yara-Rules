@@ -2,7 +2,7 @@ rule  AuroraStealer_March_2023 {
 
 	meta:
 		author = "RUPanda"
-		description = "Detects the Build/Group IDs if present / detects an obfuscated AuroraStealer March update binary" 
+		description = "Detects an unobfuscated AuroraStealer March update binary" 
 		date = "3/23/2023"
 
 	strings:
