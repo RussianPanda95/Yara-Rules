@@ -1,4 +1,4 @@
-rule  PSWSTEALER {
+rule PSWSTEALER {
 	meta:
 		author = "RUPanda"
 		description = "PSWSTEALER" 
