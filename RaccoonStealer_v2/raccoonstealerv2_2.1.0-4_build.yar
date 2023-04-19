@@ -1,5 +1,4 @@
 rule RaccoonStealerv2 {
-
 	meta:
 		author = "RUPanda"
 		date = "04/17/2023"
@@ -10,7 +9,6 @@ rule RaccoonStealerv2 {
 		$pattern3 = {68 ?? ?? ?? 00 ?? ?? 68 01 00 1F 00 FF 15 64 ?? ?? 00}
 		$m1 = {68 ?? ?? ?? 00 ?? 00 68 01 00 1f 00 ff 15 64 ?? ?? 00}
 		$m2 = {68 ?? ?? ?? 00 ?? 68 01 00 1f 00 ff 15 64 ?? ?? 00}
- 
 	condition:
 		2 of ($pattern*) and uint16(0) == 0x5A4D and one of ($m*) and uint32(uint32(0x3C)) == 0x00004550 and filesize < 200KB
 }
