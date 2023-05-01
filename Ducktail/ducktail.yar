@@ -1,10 +1,8 @@
 rule Ducktail {
-
 	meta:
 		author = "RUPanda"
 		description = "Ducktail Infostealer" 
 		date = "4/25/2023"
-
 	strings:
 		$s = {65 5f 73 71 6c 69 74 65 33 2e 64 6c 6c}
 		$s1 = {54 65 6c 65 67 72 61 6d 2e 42 6f 74 2e 64 6c 6c}
