@@ -1,6 +1,6 @@
 rule Ducktail {
 	meta:
-		author = "RUPanda"
+		author = "RussianPanda"
 		description = "Ducktail Infostealer" 
 		date = "4/25/2023"
 	strings:
