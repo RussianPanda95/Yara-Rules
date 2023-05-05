@@ -1,6 +1,6 @@
 rule RaccoonStealerv2 {
 	meta:
-		author = "RUPanda"
+		author = "RussianPanda"
 		date = "04/17/2023"
 		description = "Detects the latest unpacked/unobfuscated build 2.1.0-4"
 	strings:
