@@ -1,7 +1,7 @@
 rule Vidar_DLL_embedded {
 
 	meta:
-		author = "RUPanda"
+		author = "RussianPanda"
 		description = "Vidar Stealer with embedded DLL dependencies" 
 		date = "5/2/2023"
 
