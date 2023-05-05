@@ -1,7 +1,7 @@
 rule  AuroraStealer_March_2023 {
 
 	meta:
-		author = "RUPanda"
+		author = "RussianPanda"
 		description = "Detects an unobfuscated AuroraStealer March update binary" 
 		date = "3/23/2023"
 
