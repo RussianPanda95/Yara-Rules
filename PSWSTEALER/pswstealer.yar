@@ -1,6 +1,6 @@
 rule PSWSTEALER {
 	meta:
-		author = "RUPanda"
+		author = "RussianPanda"
 		description = "PSWSTEALER" 
 		date = "4/2/2023"
 	strings:
