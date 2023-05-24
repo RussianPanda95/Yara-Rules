@@ -1,0 +1,21 @@
+title: Detects scheduled task creation for Pikabot
+status: experimental
+description: Detects scheduled task creation for Pikabot loader malware
+author: RussianPanda
+date: 2023/5/23
+tags:
+    - T1053
+logsource:
+  categoty: process_creation
+  product: windows
+  service: sysmon
+detection:
+  selection:
+    Image|endswith: '\schtasks.exe'
+    CommandLine|contains: 'powershell -encodedcommand'
+  selection1:
+    CommandLine|re: '[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}'
+  condition: selection and selection1
+falsepositives:
+    - Unknown  
+level: high
