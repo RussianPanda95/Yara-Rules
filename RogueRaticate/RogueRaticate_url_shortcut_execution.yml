@@ -1,0 +1,30 @@
+title: Detects URL shortcut execution (RogueURL campaign)
+status: experimental
+description: Detects URL shortcut execution that drops NetSupportRAT
+author: RussianPanda
+date: 2023/6/21
+tags:
+    - T1218
+logsource:
+  product: windows
+  service: sysmon
+detection:
+  selection_init:
+    Image|endswith: 
+    - '\mshta.exe'
+    - '\rundll32.exe'
+  selection_cmd:
+    CommandLine|contains: 'C:\Windows\system32\davclnt.dll,DavSetCookie'
+  selection_ext:
+    CommandLine|endswith:
+    - '.hta'
+  selection_port:
+    CommandLine|contains: 
+        - '@80'
+        - '@443'
+        - 'http://'
+        - 'https://'
+  condition: (selection_init and selection_port) or selection_cmd or selection_ext 
+falsepositives:
+    - Unknown  
+level: high
