@@ -1,0 +1,19 @@
+title: Detects initial PowerShell execution by SolarMarker
+status: experimental
+description: Detects initial PowerShell execution by SolarMarker
+author: RussianPanda
+date: 2023/6/21
+tags:
+    - T1059.001
+logsource:
+  categoty: process_creation
+  product: windows
+  service: sysmon
+detection:
+  selection:
+    Image|endswith: '\powershell.exe'
+    CommandLine|contains: '"powershell"'
+  condition: selection 
+falsepositives:
+    - Unknown  
+level: high
