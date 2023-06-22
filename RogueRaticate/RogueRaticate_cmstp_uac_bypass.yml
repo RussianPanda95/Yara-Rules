@@ -1,0 +1,25 @@
+title: Detects CMSTP UAC bypass (RogueURL campaign)
+status: experimental
+description: Detects CMSTP UAC bypass involving PowerShell execution
+author: RussianPanda
+date: 2023/6/22
+tags:
+    - T1218.003
+logsource:
+  product: windows
+  service: sysmon
+detection:
+  selection_1:
+    Image|endswith: '\cmstp.exe'
+  selection_2:
+    CommandLine|contains: '"C:\Windows\system32\cmstp.exe" /au'
+  selection_3:
+    CommandLine|contains: 'CMSTP.inf'
+  selection_4:
+    ParentCommandLine|contains: '-WindowStyle hidden -ExecutionPolicy UnRestricted -Encoded'
+  selection_5:
+    ParentImage|endswith: '\powershell.exe'
+  condition: all of selection_*
+falsepositives:
+    - low  
+level: high
