@@ -4,7 +4,7 @@ description: Detects indicators of data staging by SolarPhantom
 author: RussianPanda
 date: 2023/6/21
 tags:
-    - T1053
+    - T1074
 logsource:
   product: windows
   service: sysmon
