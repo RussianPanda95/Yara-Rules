@@ -1,7 +1,7 @@
 rule SolarDropper
 {
 	meta:
-		author = "eSentire Threat Intelligence team"
+		author = "RussianPanda"
 		description = "SolarMarker first stage detection"
 		
     strings:
