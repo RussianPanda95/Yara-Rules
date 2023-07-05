@@ -3,7 +3,7 @@ rule WhiteSnakeStealer {
 	meta:
 		author = "RussianPanda"
 		description = "WhiteSnake Stealer" 
-		date = "7/5/2023"
+		date = "7/4/2023"
 
 	strings:
 		$s1 = {73 68 69 74 2e 6a 70 67}
