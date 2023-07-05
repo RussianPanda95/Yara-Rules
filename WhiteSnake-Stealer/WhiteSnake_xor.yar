@@ -3,7 +3,7 @@ rule WhiteSnakeStealer {
 	meta:
 		author = "RussianPanda"
 		description = "Detects WhiteSnake Stealer XOR samples " 
-		date = "7/5/2023"
+		date = "7/4/2023"
 
 	strings:
 		$s1 = {FE 0C 00 00 FE 09 00 00 FE 0C 02 00 6F ?? 00 00 0A FE 0C 03 00 61 D1 FE 0E 04 00 FE}
