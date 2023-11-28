@@ -12,3 +12,4 @@
 #### - SolarMarker
 #### - Vidar Stealer
 #### - WhiteSnake Stealer
+#### - SwaetRAT
