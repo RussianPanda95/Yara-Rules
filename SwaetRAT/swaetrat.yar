@@ -5,7 +5,7 @@ rule SwaetRAT {
 	meta:
 		author = "RussianPanda"
 		decription = "Detects SwaetRAT"
-    		date = "11/27/2023"
+		date = "11/27/2023"
 
 	strings:
 		$s2 = "Pong"
