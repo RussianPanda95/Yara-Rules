@@ -13,3 +13,4 @@
 #### - Vidar Stealer
 #### - WhiteSnake Stealer
 #### - SwaetRAT
+#### - DanaBot
