@@ -14,3 +14,4 @@
 #### - WhiteSnake Stealer
 #### - SwaetRAT
 #### - DanaBot
+#### - FakeBat
