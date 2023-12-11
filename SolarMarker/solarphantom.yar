@@ -2,6 +2,7 @@ rule SolarPhantom {
 
 	meta:
 		author = "RussianPanda"
+		reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
 		description = "SolarPhantom Backdoor Detection"
 
 	strings:
