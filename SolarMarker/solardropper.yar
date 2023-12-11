@@ -2,6 +2,7 @@ rule SolarDropper
 {
 	meta:
 		author = "RussianPanda"
+		reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
 		description = "SolarMarker first stage detection"
 		
     strings:
