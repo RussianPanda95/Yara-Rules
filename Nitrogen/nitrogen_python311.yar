@@ -4,6 +4,7 @@ rule nitrogen_python311_rule {
 
     meta:
     	author = "RussianPanda"
+	reference = "https://www.esentire.com/blog/persistent-connection-established-nitrogen-campaign-leverages-dll-side-loading-technique-for-c2-communication"
     	description = "Detects side-loaded Python311 DLL for the new Nitrogen campaign 10-23-2023"
     	date = "10/24/2023"
 
