@@ -2,6 +2,7 @@ rule WhiteSnakeStealer {
 
 	meta:
 		author = "RussianPanda"
+		reference = "https://russianpanda.com/2023/07/04/WhiteSnake-Stealer-Malware-Analysis/"
 		description = "WhiteSnake Stealer" 
 		date = "7/4/2023"
 
