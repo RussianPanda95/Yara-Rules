@@ -1,7 +1,8 @@
 rule MeduzaStealer {
 
 	meta:
-		author = "RussianPanda
+		author = "RussianPanda"
+		reference = "https://russianpanda.com/2023/06/28/Meduza-Stealer-or-The-Return-of-The-Infamous-Aurora-Stealer/"
 		description = "Detects MeduzaStealer" 
 		date = "6/27/2023"
 
