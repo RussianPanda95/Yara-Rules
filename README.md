@@ -17,3 +17,4 @@
 #### - FakeBat
 #### - Ande Loader
 #### - WorkersDevBackdoor
+#### - Pure Logs Stealer
