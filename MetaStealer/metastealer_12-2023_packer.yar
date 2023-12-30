@@ -1,7 +1,7 @@
-rule MetaStealer {
+rule MetaStealer_NET_Reactor_packer {
     meta:
         author = "RussianPanda"
-        description = "Detects MetaStealer 12-2023"
+        description = "Detects NET_Reactor_packer 12-2023 used in MetaStealer"
         date = "12/29/2023"
 
     strings:
