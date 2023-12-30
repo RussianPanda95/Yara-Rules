@@ -3,7 +3,7 @@ rule MetaStealer {
 
 	meta:
 		author = "RussianPanda"
-    decription = "Detects MetaStealer"
+    decription = "Detects the old version of MetaStealer 11-2023"
 		date = "11/16/2023"
 
 	strings:
