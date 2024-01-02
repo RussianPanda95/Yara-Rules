@@ -3,6 +3,8 @@ rule JinxLoader {
         author = "RussianPanda"
         description = "Detects JinxLoader Golang version"
         date = "1/2/2024"
+        hash = "6bd7ff5d764214f239af2bb58b368308c2d04f1147678c2f638f37a893995f71"
+
 
     strings:
         $s1 = {72 75 6E 74 69 6D 65 2E 67 6F 70 61 6E 69 63}
