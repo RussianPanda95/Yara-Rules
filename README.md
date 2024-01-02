@@ -19,3 +19,4 @@
 #### - WorkersDevBackdoor
 #### - Pure Logs Stealer
 #### - PikaBot
+#### - JinxLoader
