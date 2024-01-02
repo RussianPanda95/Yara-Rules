@@ -10,5 +10,6 @@ rule PikaBot {
     	$s2 = {C0 E9 02 C0 E0 04 [13] C0 E2 06 02 D0}
     	$s3 = {8D 53 BF 80 FA 19 0F B6 C3}
     condition:
-        2 of ($s*) and filesize < 500KB
+        uint16(0) == 0x5A4D
+        and 2 of ($s*) and filesize < 500KB
 }
