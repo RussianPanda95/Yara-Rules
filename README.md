@@ -18,3 +18,4 @@
 #### - Ande Loader
 #### - WorkersDevBackdoor
 #### - Pure Logs Stealer
+#### - PikaBot
