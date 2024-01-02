@@ -1,7 +1,7 @@
 ### Yara Rules for: 
 
 
-#### * Aurora Stealer
+* Aurora Stealer
 #### - Bandit Stealer
 #### - Ducktail
 #### - Meduza Stealer
