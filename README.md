@@ -1,22 +1,21 @@
 ### Yara Rules for: 
 
-
-* Aurora Stealer
-#### - Bandit Stealer
-#### - Ducktail
-#### - Meduza Stealer
-#### - MetaStealer
-#### - Nitrogen
-#### - PSWSTEALER
-#### - RaccoonStealerv2
-#### - SolarMarker
-#### - Vidar Stealer
-#### - WhiteSnake Stealer
-#### - SwaetRAT
-#### - DanaBot
-#### - FakeBat
-#### - Ande Loader
-#### - WorkersDevBackdoor
-#### - Pure Logs Stealer
-#### - PikaBot
-#### - JinxLoader
+- **Aurora Stealer**
+- **Bandit Stealer**
+- **Ducktail**
+- **Meduza Stealer**
+- **MetaStealer**
+- **Nitrogen**
+- **PSWSTEALER**
+- **RaccoonStealerv2**
+- **SolarMarker**
+- **Vidar Stealer**
+- **WhiteSnake Stealer**
+- **SwaetRAT**
+- **DanaBot**
+- **FakeBat**
+- **Ande Loader**
+- **WorkersDevBackdoor**
+- **Pure Logs Stealer**
+- **PikaBot**
+- **JinxLoader**
