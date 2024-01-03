@@ -14,7 +14,7 @@ rule GaryStealer {
 
     condition:
         uint16(0) == 0x5A4D
-        and 3 of ($s*) and filesize < 17MB
+        and 3 of ($s*) and filesize < 20MB
         and #s4 > 2
 		
 }
