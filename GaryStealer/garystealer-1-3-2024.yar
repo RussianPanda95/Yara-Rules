@@ -2,7 +2,7 @@ rule GaryStealer {
     meta:
         author = "RussianPanda"
         description = "Detects GaryStealer 1-3-2024"
-		reference = "https://cybersecurity.att.com/blogs/labs-research/behind-the-scenes-jaskagos-coordinated-strike-on-macos-and-windows"
+	reference = "https://cybersecurity.att.com/blogs/labs-research/behind-the-scenes-jaskagos-coordinated-strike-on-macos-and-windows"
         date = "01/03/2024"
         hash = "6efa29a0f9d112cfbb982f7d9c0ddfe395b0b0edb885c2d5409b33ad60ce1435"
 
