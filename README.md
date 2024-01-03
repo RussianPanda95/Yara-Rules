@@ -19,3 +19,4 @@
 - **Pure Logs Stealer**
 - **PikaBot**
 - **JinxLoader**
+- **GaryStealer**
