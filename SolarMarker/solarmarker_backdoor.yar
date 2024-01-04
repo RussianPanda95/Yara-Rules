@@ -4,7 +4,7 @@ rule SolarMarker_loader {
     meta:
         author = "RussianPanda"
         description = "Detects SolarMarker loader 1-4-2024"
-		reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
+	reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
         date = "01/04/2024"
         hash = "8eeefe0df0b057fc866b8d35625156de"
 
