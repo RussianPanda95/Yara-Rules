@@ -2,7 +2,7 @@ rule SolarMarker_loader_PS2EXE {
     meta:
         author = "RussianPanda"
         description = "Detects SolarMarker loader using PS2EXE"
-		reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
+	reference = "https://www.esentire.com/blog/solarmarker-to-jupyter-and-back"
         date = "01/04/2024"
         hash = "b45c31679c2516b38c7ff8c395f1d11d"
 
