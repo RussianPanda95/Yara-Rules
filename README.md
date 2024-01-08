@@ -20,3 +20,4 @@
 - **PikaBot**
 - **JinxLoader**
 - **GaryStealer**
+- **Illyrian Stealer**
