@@ -5,6 +5,7 @@ rule RaccoonStealer {
 		decription = "Detects Raccoon Stealer v2.3.1.1"
         	reference = "https://www.esentire.com/blog/esentire-threat-intelligence-malware-analysis-raccoon-stealer-v2-0"
 		date = "1/8/2024"
+		hash = "c6d0d98dd43822fe12a1d785df4e391db3c92846b0473b54762fbb929de6f5cb"
 	strings:
 	        $s1 = {8B 0D [2] 41 00 A3 [3] 00}
 	        $s2 = "MachineGuid"
