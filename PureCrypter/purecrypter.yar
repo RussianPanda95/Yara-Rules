@@ -8,6 +8,7 @@ rule PureCrypter
         reference = "https://www.zscaler.com/blogs/security-research/technical-analysis-purecrypter"
         description = "Detects PureCrypter"
         hash = "566d8749e166436792dfcbb5e5514f18c9afc0e1314833ac2e3d86f37ff2030f"
+
     strings:
         $s1 = {28 ?? 00 00 ?? 28 02 00 00 2B 28 ?? 00 00 (0A|06)}
         $s2 = {73 ?? 00 00 0A}
