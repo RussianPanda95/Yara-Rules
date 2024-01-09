@@ -18,5 +18,5 @@ rule PureCrypter
         
     condition:
         filesize < 6MB and
-        4 of ($s*) and for any i in (0..dotnet.number_of_streams - 1):  (dotnet.streams[i].name == "#~") and dotnet.number_of_resources > 0 and dotnet.number_of_resources < 2 and dotnet.resources[0].length > 300KB 
+        4 of ($s*) and dotnet.number_of_resources > 0 and dotnet.number_of_resources < 2 and dotnet.resources[0].length > 300KB 
 }
