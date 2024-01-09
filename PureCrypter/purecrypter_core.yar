@@ -8,7 +8,6 @@ rule PureCrypter_Core
         reference = "https://www.zscaler.com/blogs/security-research/technical-analysis-purecrypter"
         description = "Detects PureCrypter Core payload"
         hash = "e4faa7d7a098414449abffb210fd874798207ee9d27643c8088676ff429b56b7"
-  
     strings:
         $s1 = {47 5A 69 70 53 74 72 65 61 6D}
         $s2 = {41 73 73 65 6D 62 6C 79 4C 6F 61 64 65 72 00 43 6F 73 74 75 72 61}
@@ -22,9 +21,9 @@ rule PureCrypter_Core
     condition: 
         filesize < 5MB and
         all of ($s*) and
-        for any i in (0..dotnet.number_of_streams - 1):  
-            (dotnet.streams[i].name == "#~") and
-        dotnet.number_of_resources > 4 and dotnet.number_of_resources < 6
+        for any i in (0..dotnet.number_of_streams - 1): (dotnet.streams[i].name == "#~")
+        and dotnet.number_of_resources > 4 and dotnet.number_of_resources < 6
         and 2 of ($nr*) and dotnet.assembly_refs[1].name contains "protobuf-net"
         and #cnct > 5 
+
 }
