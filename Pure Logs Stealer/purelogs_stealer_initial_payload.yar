@@ -14,6 +14,6 @@ rule purelogs_stealer_initial_dropper {
        
  	condition:
 		all of ($s*)
-        	and uint16(0) == 0x5A4D and filesize < 900KB
+        	and uint16(0) == 0x5A4D and filesize < 1MB
 		
 }
