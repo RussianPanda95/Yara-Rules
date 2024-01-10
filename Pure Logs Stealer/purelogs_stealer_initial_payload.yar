@@ -2,8 +2,8 @@ rule purelogs_stealer_initial_dropper {
 	meta:
 	        author = "RussianPanda"
 	        decription = "Detects PureLogs Stealer"
-	        reference = ""
-	        date = "1/9/2024"
+	        reference = "https://russianpanda.com/2023/12/26/Pure-Logs-Stealer-Malware-Analysis/"
+	        date = "1/10/2024"
 
 	strings:
 	        $s1 = {73 ?? 00 00 06 28 ?? 00 00 ?? 2A}
