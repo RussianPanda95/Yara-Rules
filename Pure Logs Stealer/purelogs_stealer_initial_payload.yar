@@ -1,7 +1,7 @@
 rule purelogs_stealer_initial_dropper {
 	meta:
 	        author = "RussianPanda"
-	        decription = "Detects PureLogs Stealer"
+	        decription = "Detects PureLogs Stealer Initial Payload"
 	        reference = "https://russianpanda.com/2023/12/26/Pure-Logs-Stealer-Malware-Analysis/"
 	        date = "1/10/2024"
 
