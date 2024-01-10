@@ -17,4 +17,6 @@ rule prysmax_stealer {
 		all of ($s*)
 	        and uint16(0) == 0x5A4D and $a1 in (9600000..filesize) and #a1 > 600
 	        and filesize > 60MB and filesize < 200MB
+
+}
 			
