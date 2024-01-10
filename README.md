@@ -21,3 +21,4 @@
 - **JinxLoader**
 - **GaryStealer**
 - **Illyrian Stealer**
+- **PureCrypter**
