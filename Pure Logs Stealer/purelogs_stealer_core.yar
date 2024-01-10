@@ -3,7 +3,7 @@ import "pe"
 rule PureLogs_Stealer_core {
     meta:
         author = "RussianPanda"
-        description = "Detects Pure Logs Stealer Core payload"
+        description = "Detects Pure Logs Stealer Core Payload"
         date = "12/26/2023"
 
     strings:
