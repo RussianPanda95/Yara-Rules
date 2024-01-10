@@ -12,7 +12,6 @@ rule purelogs_stealer_initial_dropper {
 	        $s4 = {28 ?? 00 00 ?? 75 ?? 00 00 01 72 ?? 00 00 ?? 20 00 01 00 00 14 14 14 6F ?? 00 00 ?? 26}
 	        $s5 = {28 ?? 00 00 ?? 73 ?? 00 00 [29] 73 15 00 00 0A [22] 28 01 00 00 2B 28 02 00 00 2B}
        
-
  	condition:
 		all of ($s*)
         	and uint16(0) == 0x5A4D and filesize < 900KB
