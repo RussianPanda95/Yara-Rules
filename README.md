@@ -22,3 +22,4 @@
 - **GaryStealer**
 - **Illyrian Stealer**
 - **PureCrypter**
+- **Prysmax Stealer**
