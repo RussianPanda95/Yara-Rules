@@ -7,7 +7,6 @@ rule susp_b64_enc {
 	strings:
 		$s2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
         	$s3 = {83 E? 3F}
-     
  	condition:
 		all of ($s*) 
        	 	and uint16(0) == 0x5A4D
