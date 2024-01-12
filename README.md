@@ -23,3 +23,4 @@
 - **Illyrian Stealer**
 - **PureCrypter**
 - **Prysmax Stealer**
+- **SmartApeSG**
