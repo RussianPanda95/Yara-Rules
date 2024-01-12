@@ -25,3 +25,4 @@
 - **Prysmax Stealer**
 - **Base64 Obfuscation**
 - **SmartApeSG**
+- **PowerShell Special Character Obfuscation**
