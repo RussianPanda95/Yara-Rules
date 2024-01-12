@@ -18,6 +18,6 @@ rule Atomic_Stealer {
 	    uint32(0) == 0xbebafeca    // Mach-O FAT_CIGAM
 	)
 	and all of them
-        and all of ($s*) and #s1 > 60 and #s2 > 100
+	and all of ($s*) and #s1 > 60 and #s2 > 100
 }
 
