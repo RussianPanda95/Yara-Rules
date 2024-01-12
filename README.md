@@ -23,4 +23,5 @@
 - **Illyrian Stealer**
 - **PureCrypter**
 - **Prysmax Stealer**
+- **Base64 Obfuscation**
 - **SmartApeSG**
