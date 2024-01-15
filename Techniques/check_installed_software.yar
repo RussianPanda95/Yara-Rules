@@ -14,6 +14,6 @@ rule check_installed_software {
 
   condition:
     uint16(0) == 0x5A4D
-    and for any i in (1..#u1) : ($d1 in (@u1[i] - 200..@u1[i] + 200))
     and $reg and $h
+    and for any i in (1..#u1) : ($d1 in (@u1[i] - 200..@u1[i] + 200))
 }
