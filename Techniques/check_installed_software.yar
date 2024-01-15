@@ -4,7 +4,7 @@ rule check_installed_software {
     author = "RussianPanda"
     date = "1/14/2024"
     reference = "https://unprotect.it/technique/checking-installed-software/"
-    hash = "aa1b0b2f6f06f622abf2128ecafed1929682221c5ff4dd2426f16b9ae272fdf9"
+    hash = "db44d4cd1ea8142790a6b26880b41ee23de5db5c2a63afb9ee54585882f1aa07"
 
   strings:
     $d1 = "DisplayVersion"
