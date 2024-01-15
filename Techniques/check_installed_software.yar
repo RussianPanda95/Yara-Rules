@@ -10,7 +10,7 @@ rule check_installed_software {
     $d1 = "DisplayVersion"
     $u1 = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
     $reg = "RegOpenKeyExA"
-    $h = { 68 (01|02) 00 00 80 }
+    $h = {68 (01|02) 00 00 80}
 
   condition:
     uint16(0) == 0x5A4D
