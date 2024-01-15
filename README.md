@@ -26,3 +26,4 @@
 - **Base64 Obfuscation**
 - **SmartApeSG**
 - **PowerShell Special Character Obfuscation**
+- **Atomic Stealer**
