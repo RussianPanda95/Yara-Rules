@@ -5,6 +5,7 @@ rule susp_obf_py_marshal_module {
         author = "RussianPanda"
         date = "2024-01-16"
         reference = "https://www.trendmicro.com/fr_fr/research/23/j/infection-techniques-across-supply-chains-and-codebases.html"
+        hash = "d740129ff6bdb65a324eadf4ac8de3893a54306cf2a11712a305ef6247204092"
 
     strings:
         $s1 = "import marshal"
