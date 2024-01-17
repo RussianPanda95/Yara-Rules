@@ -3,7 +3,8 @@ rule Atomic_Stealer {
         author = "RussianPanda"
         description = "Detects Atomic Stealer targering MacOS"
         date = "1/13/2024"
-        reference = "https://www.malwarebytes.com/blog/threat-intelligence/2024/01/atomic-stealer-rings-in-the-new-year-with-updated-version/amp"
+        reference1 = "https://www.malwarebytes.com/blog/threat-intelligence/2024/01/atomic-stealer-rings-in-the-new-year-with-updated-version/amp"
+	reference2 = "https://www.bleepingcomputer.com/news/security/macos-info-stealers-quickly-evolve-to-evade-xprotect-detection/"
         hash = "dd8aa38c7f06cb1c12a4d2c0927b6107"
     strings:
         $s1 = {8B 09 83 C1 (01|02|04|05|03) 39 C8 0F 85 38 00 00 00 48 8B 85}
