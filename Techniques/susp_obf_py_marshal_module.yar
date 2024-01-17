@@ -1,6 +1,6 @@
 rule susp_obf_py_marshal_module {
     meta:
-        description = "Detects Obfuscated Code Using Marshal Module"
+        description = "Detects Obfuscated Code Using Python Marshal Module"
         author = "RussianPanda"
         date = "2024-01-16"
         reference = "https://www.trendmicro.com/fr_fr/research/23/j/infection-techniques-across-supply-chains-and-codebases.html"
