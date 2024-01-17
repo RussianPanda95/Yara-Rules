@@ -14,5 +14,5 @@ rule neptune_loader {
         $t3 = {8B ?? ?? FF D0 B8}
 
     condition:
-        all of ($s*) or 2 of ($t*) and filesize < 6MB
+        3 of ($s*) or 2 of ($t*) and filesize < 6MB
 }
