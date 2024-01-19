@@ -27,3 +27,5 @@
 - **SmartApeSG**
 - **PowerShell Special Character Obfuscation**
 - **Atomic Stealer**
+- **Neptune Loader**
+- **FenixBotnet**
