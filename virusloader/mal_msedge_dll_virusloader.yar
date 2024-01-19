@@ -1,6 +1,6 @@
 rule mal_msedge_dll_virusloader {
     meta:
-        description = "Detects trojanized msedge.dll file"
+        description = "Detects malicious msedge.dll file"
         author = "RussianPanda"
         reference = "https://blog.phylum.io/npm-package-found-delivering-sophisticated-rat/"
         date = "2024-01-19"
