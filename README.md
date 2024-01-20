@@ -29,3 +29,5 @@
 - **Atomic Stealer**
 - **Neptune Loader**
 - **FenixBotnet**
+- **virusloader**
+- **SentinelStealer**
