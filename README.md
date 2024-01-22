@@ -31,3 +31,4 @@
 - **FenixBotnet**
 - **virusloader**
 - **SentinelStealer**
+- **ZharkBot**
