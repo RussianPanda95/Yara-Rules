@@ -1,6 +1,6 @@
-rule darkgate_au3 {
+rule darkgate_AutoIT {
     meta:
-        description = "Detects DarkGate AU3 script"
+        description = "Detects DarkGate AutoIT script"
         author = "RussianPanda"
         date = "2024-01-26"
         reference = "https://yara.readthedocs.io/en/stable/writingrules.html?highlight=xor"
