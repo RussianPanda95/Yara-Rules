@@ -1,7 +1,7 @@
 rule mal_NarniaRAT {
     meta:
         author = "RussianPanda"
-        description = "Detects NarniaRAT from FenixBotnet campaign"
+        description = "Detects NarniaRAT from BotnetFenix campaign"
         date = "2/2/2024"
         hash = "43f6c3f92a025d12de4c4f14afa5d098"
     strings:
