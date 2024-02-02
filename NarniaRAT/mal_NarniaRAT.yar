@@ -1,4 +1,4 @@
-rule narniaRAT {
+rule mal_NarniaRAT {
     meta:
         author = "RussianPanda"
         description = "Detects NarniaRAT from FenixBotnet campaign"
