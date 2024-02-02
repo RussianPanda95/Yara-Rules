@@ -12,5 +12,5 @@ rule mal_NarniaRAT {
         $s5 = "SendKeys"
         $s6 = "_CorExeMain"
     condition:
-        uint16(0) == 0x5A4D and all of them
+        uint16(0) == 0x5A4D and 5 of them
 }
