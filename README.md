@@ -32,3 +32,6 @@
 - **virusloader**
 - **SentinelStealer**
 - **ZharkBot**
+- **NarniaRAT**
+- **AsukaStealer**
+
