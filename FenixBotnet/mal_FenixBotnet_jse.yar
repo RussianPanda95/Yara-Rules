@@ -1,4 +1,4 @@
-rule FenixBotnet_jse {
+rule mal_FenixBotnet_jse {
     meta:
         description = "Detects Fenix Botnet JSE downloader"
         author = "RussianPanda"
