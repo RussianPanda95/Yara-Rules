@@ -10,6 +10,7 @@ rule mal_BotnetFenix_Payload {
         $s3 = "Post Success"
         $s4 = "Success Stealer"
         $s5 = "Download and Execute task id"
+        $a = "_CorExeMain"
     condition:
-        uint16(0) == 0x5A4D and 4 of them
+        uint16(0) == 0x5A4D and 4 of ($s*) and $a
 }
