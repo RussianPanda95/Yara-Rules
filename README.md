@@ -29,6 +29,7 @@
 - **Atomic Stealer**
 - **Neptune Loader**
 - **FenixBotnet**
+- **XRed Backdoor**
 - **virusloader**
 - **SentinelStealer**
 - **ZharkBot**
