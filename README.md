@@ -38,4 +38,5 @@
 - **CleanUpLoader**
 - **D3F@ck Loader**
 - **RustyDropper**
+- **MpxDropper**
 
