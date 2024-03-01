@@ -34,4 +34,7 @@
 - **ZharkBot**
 - **NarniaRAT**
 - **AsukaStealer**
+- **CleanUpLoader**
+- **D3F@ck Loader**
+- **RustyDropper**
 
