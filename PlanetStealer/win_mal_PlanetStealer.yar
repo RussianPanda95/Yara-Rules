@@ -1,7 +1,7 @@
 rule win_mal_PlanetStealer {
     meta:
         author = "RussianPanda"
-        description = "Detects PlanetStealer"
+        description = "Detects unpacked PlanetStealer"
         date = "3/4/2024"
     strings:
         $s1 = {48 8D 15 ?? ?? ?? 00 0F B6 34 10 0F B6 BC 04 ?? ?? 00 00 ?? ?? 40 88 ?? 04 ?? ?? 00 00 48 FF C0}
