@@ -11,5 +11,5 @@ rule ZharkBot {
         $s2 = {F7 E2 C1 EA 04 0F BE C2 8B 55 ?? 8A CA 6B C0 ?? 2A C8 80 C1 ?? 30 8C 15}
 
     condition:
-        uint16(0) == 0x5A4D and #s1 > 5 and #s2 > 5 and filesize < 500KB
+        uint16(0) == 0x5A4D and #s1 > 3 and #s2 > 3 and filesize < 500KB
 }
