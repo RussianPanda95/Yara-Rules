@@ -40,4 +40,5 @@
 - **RustyDropper**
 - **MpxDropper**
 - **Zloader**
+- **GlorySprout**
 
