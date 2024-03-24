@@ -41,4 +41,5 @@
 - **MpxDropper**
 - **Zloader**
 - **GlorySprout**
+- **GoBitLoader**
 
