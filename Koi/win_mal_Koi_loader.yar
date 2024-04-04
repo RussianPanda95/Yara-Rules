@@ -1,7 +1,7 @@
-rule win_mal_AZORult_loader {
+rule win_mal_Koi_loader {
     meta:
         author = "RussianPanda"
-        description = "Detects AZORult Loader"
+        description = "Detects Koi Loader"
         date = "4/4/2024"
         hash = "47e208687c2fb40bdbaa17e368aaa1bd"
     strings:
