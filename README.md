@@ -42,4 +42,6 @@
 - **Zloader**
 - **GlorySprout**
 - **GoBitLoader**
+- **Koi Stealer**
+- **Koi Loader**
 
