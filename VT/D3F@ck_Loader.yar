@@ -5,16 +5,14 @@ rule D3fackLoader {
     author = "RussianPanda"
     target_entity = "file"
   condition:
-    for any vt_behaviour_system_property_lookups in vt.behaviour.system_property_lookups: (
-      vt_behaviour_system_property_lookups == "IWbemServices::ExecQuery - root\\CIMV2 : SELECT Name FROM Win32_Process Where Name=&quot;VBoxService.exe&quot;"
+    for any vt_behaviour_files_opened in vt.behaviour.files_opened: (
+      vt_behaviour_files_opened == "ds.txt"
     )
-    and vt.metadata.exiftool["Comments"] == "This installation was built with Inno Setup."
-    and for any vt_behaviour_system_property_lookups in vt.behaviour.system_property_lookups: (
-      vt_behaviour_system_property_lookups == "IWbemServices::ExecQuery - root\\CIMV2 : SELECT Name FROM Win32_Process Where Name=&quot;Vmwareuser.exe&quot;"
+    and for any vt_behaviour_processes_created in vt.behaviour.processes_created: (
+      vt_behaviour_processes_created == "C:\\Windows\\SysWOW64\\findstr.exe FINDSTR  /I \"Virtual VBOX VMware\""
     )
-    and for any vt_behaviour_system_property_lookups in vt.behaviour.system_property_lookups: (
-      vt_behaviour_system_property_lookups == "IWbemServices::ExecQuery - root\\CIMV2 : SELECT Name FROM Win32_Process Where Name=&quot;Vmtoolsd.exe&quot;"
-    )
-    and vt.metadata.analysis_stats.malicious > 2
+    and vt.metadata.analysis_stats.malicious > 1
+
 }
+
 
