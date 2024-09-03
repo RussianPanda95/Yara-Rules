@@ -9,7 +9,6 @@ rule ZharkBot {
     strings:
         $s1 = "^[a-z]{8}$"
         $s2 = "^d{6}$"
-        $s3 = "wscript.exe"
 
     condition:
         uint16(0) == 0x5A4D and all of them and filesize < 500KB
