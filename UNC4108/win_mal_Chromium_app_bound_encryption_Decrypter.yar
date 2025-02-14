@@ -2,7 +2,7 @@ rule win_mal_Chromium_app_bound_encryption_Decrypter {
     meta:
         description = "Detects Potential Chromium app_bound_encryption key Decrypter"
         author = "RussianPanda"
-        date = "2024-2-13"
+        date = "2025-2-13"
         hash = "0f4dcfd8c9ada67a9b41033fc715d370399fd74ca94dbb8a1ea45b3785c88d02"
     strings:
         $op_chr_1 = {E0 60 88 70 41 F6 11 46}
