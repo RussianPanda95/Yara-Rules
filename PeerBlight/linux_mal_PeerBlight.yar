@@ -10,7 +10,7 @@ rule PeerBlight {
         $s3 = "group"
         $s4 = "tag"
         $s5 = "arch"
-        $s6 = "srvk"
+        $s6 = "softirq"
     condition:
-        uint32(0) == 0x464c457f and all of them
+        uint32(0) == 0x464c457f and 5 of them
 }
